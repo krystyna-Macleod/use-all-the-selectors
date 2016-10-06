@@ -26,6 +26,10 @@ nav ul {
   color: #93a1a1;
 }
 
-.wrapper-.ifn {
+.wrapper-.dfn {
   background-color: #b58900;
+}
+
+.dfn-strong {
+  color: #fff;
 }
