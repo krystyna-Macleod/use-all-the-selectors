@@ -33,3 +33,7 @@ nav ul {
 .dfn-strong {
   color: #fff;
 }
+
+mark {
+  background-color: #719e07;
+}
