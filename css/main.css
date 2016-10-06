@@ -37,3 +37,7 @@ nav ul {
 mark {
   background-color: #719e07;
 }
+
+[rel="external"] {
+  background-color: #2694d8;
+}
